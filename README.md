@@ -1,3 +1,3 @@
 # Python-solutions
 
-Solutions of Python problems that includes all codes written from free online Python courses that had problems. 
+Solutions of Python problems that include all codes/scripts/programs written from online Python courses that had various simple and complex problems. 
