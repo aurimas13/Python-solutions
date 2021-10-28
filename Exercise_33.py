@@ -1,3 +1,5 @@
+# Solution of exercise 33
+
 i=0
 numbers = [] #list in python
 no = int(raw_input("limit number? "))
