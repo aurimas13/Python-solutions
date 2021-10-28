@@ -1,3 +1,5 @@
+# Solution of exercise 43
+
 from sys import exit
 from random import randint
 
