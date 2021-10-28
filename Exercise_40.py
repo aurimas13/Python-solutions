@@ -1,3 +1,5 @@
+# Solution of exercise 40
+
 class Song(object):
 
 	def __init__(self, lyrics, anthem):
