@@ -1,3 +1,5 @@
+# Solution of exercise 44 part a-d.
+
 class Parent(object):
 
     def override(self):
