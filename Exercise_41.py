@@ -1,3 +1,4 @@
+# Solution of exercise 41
 import random
 from urllib import urlopen
 import sys
