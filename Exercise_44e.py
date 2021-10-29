@@ -1,4 +1,5 @@
 # Solution of exercise 44, part e.
+
 class Other(object):
 
     def override(self):
