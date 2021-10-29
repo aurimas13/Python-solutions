@@ -1,4 +1,4 @@
-# Solution of exercise 44, part e.         
+# Solution of exercise 44, part e.              
 
 class Other(object):
 
