@@ -1,4 +1,6 @@
-# Solution of exercise 39 
+# Solution of Exercise 39 - Exercise_39.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
 
 # create a mapping of state to abbreviation
 states = {
