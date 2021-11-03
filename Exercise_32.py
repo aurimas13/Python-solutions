@@ -1,4 +1,6 @@
-# Solution of exercise 32
+# Solution of Exercise 32 - Exercise_32.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
 
 the_count = [1, 2, 3, 4, 5]
 fruits = ['apples', 'oranges', 'pears', 'apricots']
