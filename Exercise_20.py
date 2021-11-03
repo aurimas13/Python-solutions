@@ -1,3 +1,7 @@
+# Exercise_20.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
 from sys import argv
 
 script, input_file = argv
