@@ -1,4 +1,8 @@
-# Solution of exercise 29
+# Solution of Exercise 29
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
+
 people = 20
 cats = 30
 dogs = 15
