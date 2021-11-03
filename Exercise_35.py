@@ -1,4 +1,6 @@
-# Solution of exercise 35
+# Solution of Exercise 35 - Exercise_35.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
 
 from sys import exit
 
