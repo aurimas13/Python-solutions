@@ -1,7 +1,11 @@
-name = 'Zed A. Shaw' 
-age = 35 # notalie
+# Solution of Exercise 5 - Exercise_5.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
+name = 'Aurimas A. Nausedas' 
+age = 31 # notalie
 height = 74 # inches
-weight = 180 # lbs
+weight = 220 # lbs
 eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
