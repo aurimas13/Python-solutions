@@ -1,3 +1,7 @@
+# Exercise_3.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
 print "I will now count my chickens:"
  
 print "Hens", 25 + 30 / 6
