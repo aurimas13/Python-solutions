@@ -1,4 +1,7 @@
-# Solution of exercise 41
+# Solution of Exercise 41 - Exercise_41.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
 import random
 from urllib import urlopen
 import sys
