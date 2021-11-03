@@ -1,3 +1,7 @@
+# Solution of Exercise 6 - Exercise_6.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
+
 x = "There are %d types of people." % 10  
 binary = "binary"
 do_not = "don't"
