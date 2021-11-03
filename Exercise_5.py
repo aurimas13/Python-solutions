@@ -1,4 +1,4 @@
-name = 'Zed A. Shaw'
+name = 'Zed A. Shaw' 
 age = 35 # notalie
 height = 74 # inches
 weight = 180 # lbs
