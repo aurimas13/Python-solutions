@@ -1,4 +1,6 @@
-# Solution of exercise 43
+# Solution of Exercise 43 - Exercise_43.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
 
 from sys import exit
 from random import randint
