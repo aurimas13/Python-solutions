@@ -1,4 +1,6 @@
-# Solution of exercise 33
+# Solution of Exercise 33 - Exercise_33.py
+#
+# Updated by Aurimas A. Nausedas on 11/03/21.
 
 i=0
 numbers = [] #list in python
