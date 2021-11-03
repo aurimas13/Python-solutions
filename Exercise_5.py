@@ -3,7 +3,7 @@
 # Updated by Aurimas A. Nausedas on 11/03/21.
 
 name = 'Aurimas A. Nausedas' 
-age = 31 # notalie
+age = 31 # age when updated 1st time
 height = 74 # inches
 weight = 220 # lbs
 eyes = 'Blue'
