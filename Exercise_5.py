@@ -1,6 +1,6 @@
 # Solution of Exercise 5 - Exercise_5.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 name = 'Aurimas A. Nausedas' 
 age = 31 # age when updated 1st time
