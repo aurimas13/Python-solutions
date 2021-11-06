@@ -1,6 +1,6 @@
 # Solution of Exercise 30 - Exercise_30.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 people = 30
 cars = 40
