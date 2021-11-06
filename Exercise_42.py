@@ -1,6 +1,6 @@
 # Solution of Exercise 42 - Exercise_42.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 ## Animal is-a object (yes, sort of confusing) look at the extra credit
 class Animal(object):
