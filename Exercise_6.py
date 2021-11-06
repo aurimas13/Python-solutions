@@ -1,6 +1,6 @@
 # Solution of Exercise 6 - Exercise_6.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 x = "There are %d types of people." % 10  
 binary = "binary"
