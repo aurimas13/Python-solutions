@@ -1,6 +1,6 @@
 # Solution of Exercise 41 - Exercise_41.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 import random
 from urllib import urlopen
