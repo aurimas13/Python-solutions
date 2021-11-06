@@ -1,6 +1,6 @@
 # Solution of Exercise 33 - Exercise_33.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 i=0
 numbers = [] #list in python
