@@ -1,6 +1,6 @@
 # Solution of Exercise 29 - Exercise_29.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 
 people = 20
