@@ -1,6 +1,6 @@
 # Solution of Exercise 44 (part e) - Exercise_44e.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 class Other(object):
 
