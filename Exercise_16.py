@@ -1,6 +1,6 @@
 # Exercise_16.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 from sys import argv
 
