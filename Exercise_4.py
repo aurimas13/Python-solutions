@@ -1,6 +1,6 @@
 # Solution of Exercise 4 - Exercise_4.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 cars = 100
 space_in_a_car = 4
