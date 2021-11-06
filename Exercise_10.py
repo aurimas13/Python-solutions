@@ -1,6 +1,6 @@
 # Exercise_10.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
