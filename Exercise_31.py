@@ -1,6 +1,6 @@
 # Solution of Exercise 31 - Exercise_31.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 print "You enter a dark room with two doors. Do you go through door #1 or door #2?" 
 
