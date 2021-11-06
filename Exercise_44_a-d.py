@@ -1,6 +1,6 @@
 # Solution of Exercise 44 (a-d) - Exercise_44_a-d.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 class Parent(object):
 
