@@ -1,6 +1,6 @@
 # Exercise_19.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 def cheese_and_crackers(cheese_count, boxes_of_crackers): 
 	print "You have %d cheeses!" % cheese_count
