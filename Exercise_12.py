@@ -1,6 +1,6 @@
 # Exercise_12.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 age = raw_input("How old are you? ")
 height = raw_input("How tall are you? ")
