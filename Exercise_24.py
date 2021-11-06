@@ -1,6 +1,6 @@
 # Exercise_24.py
 #
-# Updated by Aurimas A. Nausedas on 11/03/21.
+# Updated by Aurimas A. Nausedas on 11/06/21.
 
 print "Let's practise everything."
 print 'You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.'
