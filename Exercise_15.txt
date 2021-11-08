@@ -3,8 +3,6 @@
 # Created by Aurimas A. Nausedas on 06/03/20.
 # Updated by Aurimas A. Nausedas on 11/03/21.
 
-
-
 This is stuff I typed into this amazing file. 
 It is really neat stuff.
 Lots and lots of fun to have in here.
