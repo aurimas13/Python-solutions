@@ -1,5 +1,6 @@
 # Solution of Exercise 42 - Exercise_42.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 ## Animal is-a object (yes, sort of confusing) look at the extra credit
