@@ -1,5 +1,6 @@
 # Solution of Exercise 8 - Exercise_8.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 formatter = "%r %r %r %r" 
