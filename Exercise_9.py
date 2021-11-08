@@ -1,7 +1,8 @@
 # Solution of Exercise 9 - Exercise_9.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
-# 
+#
 # Here's some new strange stuff, remember type it exactly. 
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
