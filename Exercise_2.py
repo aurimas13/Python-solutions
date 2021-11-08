@@ -1,7 +1,9 @@
 # Exercise_2.py
 #
-# Created by Aurimas A. nausedas on 03/03/21
+# Created by Aurimas A. Nausedas on 06/03/20.
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
+
 
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
