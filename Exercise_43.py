@@ -1,5 +1,6 @@
 # Solution of Exercise 43 - Exercise_43.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 from sys import exit
