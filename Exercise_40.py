@@ -1,5 +1,6 @@
 # Solution of Exercise 40 - Exercise_40.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 class Song(object):
