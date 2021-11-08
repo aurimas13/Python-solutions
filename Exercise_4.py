@@ -1,5 +1,6 @@
 # Solution of Exercise 4 - Exercise_4.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 cars = 100
