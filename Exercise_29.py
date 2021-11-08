@@ -1,7 +1,7 @@
 # Solution of Exercise 29 - Exercise_29.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
-
 
 people = 20
 cats = 30
