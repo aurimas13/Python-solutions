@@ -1,5 +1,6 @@
 # Exercise_12.py
 #
+# Uploaded by Aurimas A. Nausedas on 11/23/20.
 # Updated by Aurimas A. Nausedas on 11/06/21.
 
 age = raw_input("How old are you? ")
